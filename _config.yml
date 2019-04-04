@@ -22,10 +22,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science Portfolio"
+title                    : "Ilkka Kosunen"
 title_separator          : "-"
 name                     : "Ilkka Kosunen"
-description              : "A Portfolio."
+description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ilkka Kosunen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "to be added."
+  location         : "Tallinn"
   email            :
   links:
     - label: "Email"
@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/BasalGanglia"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -299,3 +299,10 @@ defaults:
       comments: # true
       share: true
       related: true
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+        layout: single
+        author_profile: true
