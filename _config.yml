@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
