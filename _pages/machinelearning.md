@@ -1,8 +1,8 @@
 ---
-layout: archives
+layout: archive-single
 permalink: /machine-learning/
 title: "Machine Learning Posts by Tags"
-author_profile: True
+author_profile: False
 #header
 ---
 
