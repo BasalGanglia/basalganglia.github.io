@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about
+permalink: /about/
 ---
 
 I'm a data scientist yada yada
